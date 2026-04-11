@@ -2,7 +2,7 @@
 
 package kea
 
-import "github.com/browningluke/opnsense-go/pkg/api"
+import "github.com/reinkens/opnsense-go/pkg/api"
 
 const keaReconfigureEndpoint = "/kea/service/reconfigure"
 

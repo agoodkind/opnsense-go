@@ -2,7 +2,7 @@
 
 package unbound
 
-import "github.com/browningluke/opnsense-go/pkg/api"
+import "github.com/reinkens/opnsense-go/pkg/api"
 
 const unboundReconfigureEndpoint = "/unbound/service/reconfigure"
 

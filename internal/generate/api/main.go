@@ -7,8 +7,8 @@ import (
 	_ "embed"
 	"flag"
 	"fmt"
-	"github.com/browningluke/opnsense-go/internal/generate/generator"
-	"github.com/browningluke/opnsense-go/internal/generate/schema"
+	"github.com/reinkens/opnsense-go/internal/generate/generator"
+	"github.com/reinkens/opnsense-go/internal/generate/schema"
 	"log"
 	"os"
 )

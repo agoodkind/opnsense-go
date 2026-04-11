@@ -4,7 +4,7 @@ package routes
 
 import (
 	"context"
-	"github.com/browningluke/opnsense-go/pkg/api"
+	"github.com/reinkens/opnsense-go/pkg/api"
 )
 
 var RouteOpts = api.ReqOpts{

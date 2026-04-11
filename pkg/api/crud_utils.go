@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/browningluke/opnsense-go/pkg/errs"
+	"github.com/reinkens/opnsense-go/pkg/errs"
 )
 
 func resourceWrap[K any](monad string, resource K) map[string]K {

@@ -4,7 +4,7 @@ package kea
 
 import (
 	"context"
-	"github.com/browningluke/opnsense-go/pkg/api"
+	"github.com/reinkens/opnsense-go/pkg/api"
 )
 
 var SubnetOpts = api.ReqOpts{

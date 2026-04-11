@@ -2,7 +2,7 @@
 
 package interfaces
 
-import "github.com/browningluke/opnsense-go/pkg/api"
+import "github.com/reinkens/opnsense-go/pkg/api"
 
 // Controller for interfaces
 type Controller struct {

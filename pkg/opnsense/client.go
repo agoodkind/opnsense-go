@@ -3,15 +3,15 @@
 package opnsense
 
 import (
-	"github.com/browningluke/opnsense-go/pkg/api"
-	"github.com/browningluke/opnsense-go/pkg/diagnostics"
-	"github.com/browningluke/opnsense-go/pkg/firewall"
-	"github.com/browningluke/opnsense-go/pkg/interfaces"
-	"github.com/browningluke/opnsense-go/pkg/kea"
-	"github.com/browningluke/opnsense-go/pkg/quagga"
-	"github.com/browningluke/opnsense-go/pkg/routes"
-	"github.com/browningluke/opnsense-go/pkg/unbound"
-	"github.com/browningluke/opnsense-go/pkg/wireguard"
+	"github.com/reinkens/opnsense-go/pkg/api"
+	"github.com/reinkens/opnsense-go/pkg/diagnostics"
+	"github.com/reinkens/opnsense-go/pkg/firewall"
+	"github.com/reinkens/opnsense-go/pkg/interfaces"
+	"github.com/reinkens/opnsense-go/pkg/kea"
+	"github.com/reinkens/opnsense-go/pkg/quagga"
+	"github.com/reinkens/opnsense-go/pkg/routes"
+	"github.com/reinkens/opnsense-go/pkg/unbound"
+	"github.com/reinkens/opnsense-go/pkg/wireguard"
 )
 
 // Client defines a client interface for the Proxmox Virtual Environment API.

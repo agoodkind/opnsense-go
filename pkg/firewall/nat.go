@@ -4,7 +4,7 @@ package firewall
 
 import (
 	"context"
-	"github.com/browningluke/opnsense-go/pkg/api"
+	"github.com/reinkens/opnsense-go/pkg/api"
 )
 
 var NATOpts = api.ReqOpts{
