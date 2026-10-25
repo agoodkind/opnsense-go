@@ -2,6 +2,8 @@ module github.com/reinkens/opnsense-go
 
 go 1.26.0
 
+toolchain go1.27.3
+
 require (
 	github.com/hashicorp/go-retryablehttp v0.7.8
 	go.yaml.in/yaml/v3 v3.0.5
